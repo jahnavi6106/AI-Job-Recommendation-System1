@@ -1,0 +1,7 @@
+title,company,location,skills,description,qualifications,employment_type,salary
+Data Scientist,TechSoft,San Francisco,"python;machine learning;sql;pandas","Work on ML models, data pipelines, and analytics.","B.Tech/MS in CS","Full-time","120000"
+Backend Developer,WebWorks,Bengaluru,"python;django;rest;sql","Build and maintain backend APIs and services.","B.Tech in CS","Full-time","90000"
+Frontend Developer,UIForge,Mumbai,"javascript;react;html;css","Develop responsive front-end applications.","B.Tech in CS","Full-time","85000"
+ML Engineer,InnoAI,Bengaluru,"python;tensorflow;pytorch;docker","Deploy and optimize machine learning models.","B.Tech/MS in CS","Full-time","130000"
+Business Analyst,DataSense,Hyderabad,"sql;excel;powerbi;communication","Analyze business requirements and produce dashboards.","B.Com/BBA","Full-time","70000"
+DevOps Engineer,Cloudify,Chennai,"aws;docker;kubernetes;ci/cd","Maintain cloud infrastructure and CI/CD pipelines.","B.Tech in CS","Full-time","110000"
