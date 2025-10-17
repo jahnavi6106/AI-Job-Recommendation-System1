@@ -1,11 +1,11 @@
-# AI Job Recommendation System 💼🤖
+AI Job Recommendation System
 
 **AI Job Recommendation System** is a real-world AI/ML project that recommends relevant job postings to users by analyzing the content of their resumes.  
 It leverages **Natural Language Processing (NLP)** and **Machine Learning** to match user skills with job requirements using **TF-IDF vectorization** and 
 **cosine similarity**.  The project includes a **Flask-based web interface** for resume upload and displays top matching job recommendations.
 
 
-## 🔹 Features
+ Features
 
 - Upload your resume in PDF format
 - Automatically extract text from resume using PyMuPDF
@@ -19,7 +19,7 @@ It leverages **Natural Language Processing (NLP)** and **Machine Learning** to m
 - Easy-to-use and visually appealing web interface
 
 
-## 🔹 Technologies Used
+ Technologies Used
 
 | Layer | Technology / Library | Purpose |
 |-------|-------------------|---------|
@@ -38,7 +38,7 @@ It leverages **Natural Language Processing (NLP)** and **Machine Learning** to m
 
 | **Optional Tools** | Git, GitHub | Version control and repository hosting |
 
-🔹 How It Works
+ How It Works
 
 1. User uploads a PDF resume via the web interface.
 2. The backend extracts resume text using **PyMuPDF**.
@@ -46,6 +46,7 @@ It leverages **Natural Language Processing (NLP)** and **Machine Learning** to m
 4. Cosine similarity is computed between the resume vector and all job postings.
 5. Top matches are sorted and displayed on the results page.
 
+................................................................................................................................................
 
 1. Artificial Intelligence (AI)
 
